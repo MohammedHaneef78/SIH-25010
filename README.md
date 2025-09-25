@@ -107,7 +107,8 @@ Unlike existing solutions, this system combines *AI-based image recognition, mul
 *Environmental:* Promotes sustainable farming, reduces overuse of fertilizers and pesticides  
 
 ---
-![Alt text](../architecture.png.png)
+
+<img width="1536" height="1024" alt="architecture png" src="https://github.com/user-attachments/assets/8328b90e-7350-4b82-975b-13954f0465a8" />
 
 ## Research and References
 - [NABARD Report 2022](https://www.nabard.org/)  
