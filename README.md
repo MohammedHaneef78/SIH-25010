@@ -3,7 +3,7 @@
 ## Register Number:25006418
 ## Name:MOHAMMED HANEEF M
 ## Problem Title
-**SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers**
+*SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers*
 
 ---
 
@@ -39,8 +39,8 @@ Helping small farmers make informed decisions can significantly increase product
 ---
 
 ## Supporting Data
-- **86% of Indian farmers are small or marginal** (NABARD Report, 2022)  
-- Studies show **ICT-based advisories can increase crop yield by 20–30%**  
+- *86% of Indian farmers are small or marginal* (NABARD Report, 2022)  
+- Studies show *ICT-based advisories can increase crop yield by 20–30%*  
 
 ---
 
@@ -55,46 +55,46 @@ Agriculture, FoodTech & Rural Development
 ---
 
 ## Proposed Solution
-We propose a **multilingual, AI-powered crop advisory system** delivered through a mobile application and chatbot.  
+We propose a *multilingual, AI-powered crop advisory system* delivered through a mobile application and chatbot.  
 
-**Key Features:**
+*Key Features:*
 - Farmers can upload crop images for pest/disease detection.  
 - Real-time weather and soil-based recommendations.  
 - Market price integration to guide selling decisions.  
 - Voice-enabled support for farmers with low literacy.  
 - Offline-first functionality for areas with poor connectivity.  
 
-**Innovation and Uniqueness:**  
-Unlike existing solutions, this system combines **AI-based image recognition, multilingual voice support, and localized advisory** in one platform, ensuring inclusivity and accessibility for small and marginal farmers.
+*Innovation and Uniqueness:*  
+Unlike existing solutions, this system combines *AI-based image recognition, multilingual voice support, and localized advisory* in one platform, ensuring inclusivity and accessibility for small and marginal farmers.
 
 ---
 
 ## Technical Approach
-**Technologies to be used:**  
+*Technologies to be used:*  
 - Programming Languages: Python, Kotlin/Java (for Android)  
 - AI/ML: TensorFlow/PyTorch for pest detection and recommendation models  
 - Backend: Firebase/AWS  
 - APIs: Weather API, Market Price API  
 - Database: Cloud Firestore or MySQL  
 
-**Methodology:**  
+*Methodology:*  
 1. Collect soil, weather, and crop input data.  
 2. Process data with AI/ML models.  
 3. Provide advisory through a mobile app with chatbot and voice support.  
 4. Continuous feedback loop improves recommendations.  
 
-**System Flowchart:**  
+*System Flowchart:*  
 ![System Architecture](./images/architecture.png)
 
 ---
 
 ## Feasibility and Viability
-**Challenges:**  
+*Challenges:*  
 - Limited digital literacy among farmers  
 - Poor network connectivity in rural areas  
 - Need for localized datasets  
 
-**Solutions:**  
+*Solutions:*  
 - Voice-based support in multiple languages  
 - Offline-first mobile app with sync capabilities  
 - Partnerships with agricultural universities and state departments for dataset collection  
@@ -102,12 +102,12 @@ Unlike existing solutions, this system combines **AI-based image recognition, mu
 ---
 
 ## Impact and Benefits
-**Social:** Empowers farmers with knowledge in their own language  
-**Economic:** Reduces input costs, increases crop yield, improves market access  
-**Environmental:** Promotes sustainable farming, reduces overuse of fertilizers and pesticides  
+*Social:* Empowers farmers with knowledge in their own language  
+*Economic:* Reduces input costs, increases crop yield, improves market access  
+*Environmental:* Promotes sustainable farming, reduces overuse of fertilizers and pesticides  
 
 ---
-![Smart Crop Advisory System](images/architecture.png)
+![Alt text](../architecture.png.png)
 
 ## Research and References
 - [NABARD Report 2022](https://www.nabard.org/)  
